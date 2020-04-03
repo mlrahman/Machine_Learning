@@ -11,7 +11,7 @@ Types of Machine Learning:
       <li>
         Regression
         <ul>
-          <li><a href="https://github.com/mlrahman/Machine_Learning/tree/master/Linear%20Regression">Linear Regression</a></li>
+          <li><a href="https://github.com/mlrahman/Machine_Learning/tree/master/Linear%20Regression" target="_blank">Linear Regression</a></li>
           <li>Polynomial Regression</li>
         </ul>
       </li>
