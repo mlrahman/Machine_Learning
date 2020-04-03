@@ -7,5 +7,9 @@ Now let us begin with the <b>numerical analysis</b>. If we try to sketch a graph
 The equation of a straight line is:  
 <b>y=mx+c</b>  
 Here, <b>x</b> is a independent variable, <b>m</b> is the slope: the tangent value of the degree angle with the positive side of x-axis. It indicates the direction of the straight line, <b>c</b> is the value of intercept: that means the intersecting point of the straight line to the y-axis.</br></br>
-So we have to find out the value of <b>m</b> and <b>c</b> for which the straight line will interesct all the points or pass through the points with minimum distance. Here the expected <b>m</b> and <b>c</b> with the mentioned equation will create our <b>hypothesis</b>.
+So we have to find out the value of <b>m</b> and <b>c</b> for which the straight line will interesct all the points or pass through the points with minimum distance. Here the expected <b>m</b> and <b>c</b> with the mentioned equation will create our <b>hypothesis</b>. The accurate straight line is known as <b>regression line</b> or <b>best fit line</b>.</br></br>
+To find out the best value for <b>m</b> and <b>c</b> we can use two formulas,  
+<b>m = ((avg(x) * avg(y)) - avg(x * y)) / (avg(x)^2 - avg(x^2))</b>  
+<b>c = avg(y) - m * avg(x)</b>  
+<a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
 
