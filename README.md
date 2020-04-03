@@ -92,5 +92,8 @@ Types of Machine Learning:
   <li>
     <b>Cross validation:</b> It is totally different from validation data. It is used for proper judgement of the performance(accuracy) in a model. Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data. That is, to use a limited sample in order to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model. <a href="https://machinelearningmastery.com/k-fold-cross-validation/" target="_blank">Details..</a>
   </li>
+  <li>
+    <b>Hypothesis:</b> Machine learning, specifically supervised learning, can be described as the desire to use available data to learn a function that best maps inputs to outputs. Technically, this is a problem called function approximation, where we are approximating an unknown target function (that we assume exists) that can best map inputs to outputs on all possible observations from the problem domain. The collection of all the possible hypothesis is known as <b>hypothesis space</b>. Among hypothesis space if we get best result from any hypothesis then it's called <b>final hypothesis</b>.
+  </li>
 </ul>
   
