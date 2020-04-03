@@ -6,7 +6,7 @@ Types of Machine Learning:
 1) Supervised Machine Learning</br>
   => Regression</br>
     - Linear Regression</br>
-    - Polynomial Regression</br>
+    - Polynomial Regression</br></br>
   => Decision Tree</br>
   => Random Forest</br>
   => Classification</br>
