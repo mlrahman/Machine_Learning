@@ -9,8 +9,10 @@ Types of Machine Learning:
     <ul>
       <li>
         Regression
-        - Linear Regression
-        - Polynomial Regression
+        <ul>
+          <li>Linear Regression</li>
+          <li>Polynomial Regression</li>
+        </ul>
       </li>
       <li>
         Decision Tree
@@ -20,10 +22,12 @@ Types of Machine Learning:
       </li>
       <li>
         Classification
-        - KNN
-        - Logistic Regression
-        - Naive Bayes
-        - SVM
+        <ul>
+          <li>KNN</li>
+          <li>Logistic Regression</li>
+          <li>Naive Bayes</li>
+          <li>SVM</li>
+        </ul>
       </li>
     </ul>
   </li>
@@ -32,10 +36,12 @@ Types of Machine Learning:
     <ul>
       <li>
         Clustering
-        - SVD
-        - PCA
-        - K-means 
-        - Hierarchical Clustering
+        <ul>
+          <li>SVD</li>
+          <li>PCA</li>
+          <li>K-means</li>
+          <li>Hierarchical Clustering</li>
+        </ul>
       </li>
       <li>
         Hidden Markov Model (HMM)
@@ -53,8 +59,10 @@ Types of Machine Learning:
       </li>
       <li>
        Collaborative
-        - User Based
-        - Item Based 
+        <ul>
+          <li>User Based</li>
+          <li>Item Based</li>
+        </ul>
       </li>
     </ul>
   </li>
