@@ -2,9 +2,9 @@
 This repository is created from scratch. Learning is the main purpose of this repository. Here I will implement some trending machine learning algorithms and will describe precise theory behind the algorithms.
 
 <b>Machine learning</b> is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.  
-
+Types of Machine Learning:
 <ol>
-  Types of Machine Learning:
+  
   <li>
     Supervised Machine Learning
     <ul>
