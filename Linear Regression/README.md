@@ -12,4 +12,7 @@ To find out the best value for <b>m</b> and <b>c</b> we can use two formulas,
 <b>m = ((avg(x) * avg(y)) - avg(x * y)) / (avg(x)^2 - avg(x^2))</b>  
 <b>c = avg(y) - m * avg(x)</b>  
 <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
-
+WE can check the performance of our linear regression hypothesis by using <b>R-Squared Value</b>. The possible R-Squared Value is betwen 0% to 100%. Higher value indicate hypothesis high accuracy for training data or in other words best fit with features.</br>
+R-Squared value can be found using the following formula,</br>
+<b>r_square=(sum of i=1 to n: (predicted_y_i-avg(y))^2) / (sum of i=1 to n: (actual_y_i-avg(y))^2)</b>
+<a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20with%20R-Squared%20Value%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
