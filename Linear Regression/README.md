@@ -18,3 +18,4 @@ R-Squared value can be found using the following formula,</br>
 <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20with%20R-Squared%20Value%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
 <h2>Gradient Descent</h2>
 <a href="https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html" target="_blank">Details..</a>
+<b>Simple Regression using Gradient Descent</b> <a href="https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html#simple-regression" target="_blank">Details..</a> &nbsp&nbsp <a href="" target="_blank">Go to the code..</a></br>
