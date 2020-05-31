@@ -16,3 +16,5 @@ We can check the performance of our linear regression hypothesis by using <b>R-S
 R-Squared value can be found using the following formula,</br>
 <b>r_square=(sum of i=1 to n: (predicted_y_i-avg(y))^2) / (sum of i=1 to n: (actual_y_i-avg(y))^2)</b>  
 <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20with%20R-Squared%20Value%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
+<h2>Gradient Descent</h2>
+<a href="https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html" target="_blank">Details..</a>
