@@ -96,4 +96,5 @@ Types of Machine Learning:
     <b>Hypothesis:</b> Machine learning, specifically supervised learning, can be described as the desire to use available data to learn a function that best maps inputs to outputs. Technically, this is a problem called function approximation, where we are approximating an unknown target function (that we assume exists) that can best map inputs to outputs on all possible observations from the problem domain. The collection of all the possible hypothesis is known as <b>hypothesis space</b>. Among hypothesis space if we get best result from any hypothesis then it's called <b>final hypothesis</b>.
   </li>
 </ul>
+<a href="https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html#glossary-hyperparameters" target="_blank">More Details..</a>
   
