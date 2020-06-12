@@ -16,6 +16,10 @@ We can check the performance of our linear regression hypothesis by using <b>R-S
 R-Squared value can be found using the following formula,</br>
 <b>r_square=(sum of i=1 to n: (predicted_y_i-avg(y))^2) / (sum of i=1 to n: (actual_y_i-avg(y))^2)</b>  
 <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20with%20R-Squared%20Value%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
+For <b>multivariate linear regression</b> using numerical analysis we can use <b>Vector Algebra</b> formula. Suppose if we take all of our training data in a matrix <b>X</b> where each row is representing a particular training data and each column as a feature then the matrix dimension will be <b>m * (n+1)</b>, where number of data is <b>m</b> and total feature is <b>n</b>. In the same way, if we fit all the actual output in another matrix <b>Y</b> with dimension <b>m * 1</b> and all of the weights in a matrix <b>W</b> with dimension <b>( n + 1 ) * 1</b> hence the formula is:</br>
+<b>W = ( X^T * X )^-1 * X^T * Y</b></br>
+<a href="" target="_blank">Go to the code..</a>
+</br></br>
 <h2>Gradient Descent</h2>
 <a href="https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html" target="_blank">Theory Details..</a></br>
 <b>Simple Regression (Univariate) using Gradient Descent with Mean Squared Error (MSE)(L2)</b> <a href="https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html#simple-regression" target="_blank">Details..</a> &nbsp&nbsp <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Simple%20Linear%20Regression%20Using%20Gradient%20Descent%20.ipynb" target="_blank">Go to the code..</a></br>
