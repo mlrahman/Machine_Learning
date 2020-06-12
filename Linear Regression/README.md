@@ -18,7 +18,8 @@ R-Squared value can be found using the following formula,</br>
 <a href="https://github.com/mlrahman/Machine_Learning/blob/master/Linear%20Regression/Linear%20Regression%20with%20R-Squared%20Value%20Using%20Formula.ipynb" target="_blank">Go to the code..</a></br></br>
 For <b>multivariate linear regression</b> using numerical analysis we can use <b>Vector Algebra</b> formula. Suppose if we take all of our training data in a matrix <b>X</b> where each row is representing a particular training data and each column as a feature then the matrix dimension will be <b>m * (n+1)</b>, where number of data is <b>m</b> and total feature is <b>n</b>. In the same way, if we fit all the actual output in another matrix <b>Y</b> with dimension <b>m * 1</b> and all of the weights in a matrix <b>W</b> with dimension <b>( n + 1 ) * 1</b> hence the formula is:</br>
 <b>W = ( X^T * X )^-1 * X^T * Y</b></br>
-<a href="" target="_blank">Go to the code..</a>
+<a href="" target="_blank">Go to the code..</a></br>
+<b>Note:</b> Numerical analysis is effective for less number of training data. If number of training data <b>n</b> is a higher number then the vector calculation will be computationally expensive. So in that case Gradient Descent will be more effective. 
 </br></br>
 <h2>Gradient Descent</h2>
 <a href="https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html" target="_blank">Theory Details..</a></br>
